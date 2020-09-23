@@ -1,0 +1,11 @@
+1 - 
+o nome da pasta onde o server.py deve estar eh "Trabalho_16_09".
+Motivo: A recursao calcula o caminho para os arquivos e diretorios em qualquer maquina,
+no entanto usa como referencia o nome da pasta em que o server.py estah para apagar informacoes desnecessarias, como
+nome de usuario e ambiente.
+
+2 - 
+Toda pasta tem um index.html responsavel por determinar os diretorios atuais exibidos no navegador,
+esse arquivo nao serah exibido. Tambem ha um tratamento para nao exibir o arquivo server.py.
+
+
